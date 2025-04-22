@@ -1,0 +1,2974 @@
+{
+    "faculty": [
+        {
+            "title": "Dr.",
+            "lastname": "Kemeny,",
+            "middlename": "C.",
+            "firstname": "Paul",
+            "address": "313 B Staley Hall ",
+            "phone_number": 4582010,
+            "mailroom": "3001",
+            "department": "n/a"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Byun,",
+            "middlename": "L.",
+            "firstname": "Seulgi",
+            "address": "321 E Staley Hall ",
+            "phone_number": 4501530,
+            "mailroom": "3018",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Ansberry",
+            "middlename": "B.",
+            "firstname": "Christopher",
+            "address": "321 G Staley Hall ",
+            "phone_number": 2641325,
+            "mailroom": "3021",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bibza",
+            "middlename": "x.",
+            "firstname": "James",
+            "address": "321 D Staley Hall ",
+            "phone_number": 4582203,
+            "mailroom": "3081",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Campbell",
+            "middlename": "Van",
+            "firstname": "G",
+            "address": "300 B Staley Hall ",
+            "phone_number": 4583319,
+            "mailroom": "3089",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Franklin",
+            "middlename": "E.",
+            "firstname": "Christopher",
+            "address": "300 J Staley Hall ",
+            "phone_number": 4582199,
+            "mailroom": "3086",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Hall",
+            "middlename": "D.",
+            "firstname": "Josiah",
+            "address": "303 F Staley Hall ",
+            "phone_number": 4583228,
+            "mailroom": "3082",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Kemeny",
+            "middlename": "C.",
+            "firstname": "Paul",
+            "address": "313 B Staley Hall ",
+            "phone_number": 4582010,
+            "mailroom": "3001",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "McCray",
+            "middlename": "C.",
+            "firstname": "Alden",
+            "address": "303 G Staley Hall ",
+            "phone_number": "",
+            "mailroom": "-- 2880",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Moeller",
+            "middlename": "C.",
+            "firstname": "Julie",
+            "address": "321 A Staley Hall ",
+            "phone_number": 4583898,
+            "mailroom": "3087",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Robbins",
+            "middlename": "W.",
+            "firstname": "Duffy",
+            "address": "321 C Staley Hall ",
+            "phone_number": 4583390,
+            "mailroom": "3016",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Shepson",
+            "middlename": "R.",
+            "firstname": "Donald",
+            "address": "321 F Staley Hall ",
+            "phone_number": 4583364,
+            "mailroom": "2864",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Trueman",
+            "middlename": "R.",
+            "firstname": "Carl",
+            "address": "321 B Staley Hall ",
+            "phone_number": 4583880,
+            "mailroom": "3085",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "West",
+            "middlename": "D.",
+            "firstname": "Ryan",
+            "address": "300 F Staley Hall ",
+            "phone_number": 4501534,
+            "mailroom": "3145",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Cotherman",
+            "middlename": "E.",
+            "firstname": "Charles",
+            "address": "100 C Staley Hall ",
+            "phone_number": 4583897,
+            "mailroom": "3042",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Thrasher",
+            "middlename": "T.",
+            "firstname": "Jim",
+            "address": "3rd floor Crawford Hall ",
+            "phone_number": 4582200,
+            "mailroom": "Crawford",
+            "department": "Biblical & Religious Studies and Philosophy"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Miller,",
+            "middlename": "M.",
+            "firstname": "Kimberly",
+            "address": "200 D Staley Hall ",
+            "phone_number": 4583862,
+            "mailroom": "3008",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Bandy",
+            "middlename": "A.",
+            "firstname": "Gregory",
+            "address": "200 K Staley Hall ",
+            "phone_number": 4582052,
+            "mailroom": "3012",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Barrios",
+            "middlename": "N.",
+            "firstname": "Shannon",
+            "address": "200 G Staley Hall ",
+            "phone_number": 4582019,
+            "mailroom": "3049",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Mucha",
+            "middlename": "E.",
+            "firstname": "Nathanael",
+            "address": "49 Pew Fine Arts Center ",
+            "phone_number": 4583889,
+            "mailroom": "3053",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Bauer",
+            "middlename": "x.",
+            "firstname": "Christian",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- --",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Cherry",
+            "middlename": "L.",
+            "firstname": "Heather",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Day",
+            "middlename": "M.",
+            "firstname": "Leah",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- --",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Eaton",
+            "middlename": "x.",
+            "firstname": "Meredith",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Floris,",
+            "middlename": "D.",
+            "firstname": "Joe",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Hansford",
+            "middlename": "L.",
+            "firstname": "Jason",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Ruby",
+            "middlename": "T.",
+            "firstname": "Ashton",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- --",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Sanders",
+            "middlename": "E.",
+            "firstname": "Glen",
+            "address": "48 Pew Fine Arts Center ",
+            "phone_number": "",
+            "mailroom": "-- 3028",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Walczak",
+            "middlename": "R.",
+            "firstname": "Hilary",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Carnegie Alumni Center 450-4059 Carnegie",
+            "department": "Communication & Visual Arts"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Nichols,",
+            "middlename": "N.",
+            "firstname": "Constance",
+            "address": "107 C Staley Hall ",
+            "phone_number": 4583892,
+            "mailroom": "3027",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Chapman,",
+            "middlename": "M.",
+            "firstname": "Jarrett",
+            "address": "107 E Staley Hall ",
+            "phone_number": 4582014,
+            "mailroom": "2820",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Culbertson",
+            "middlename": "D.",
+            "firstname": "Linda",
+            "address": "100 D Staley Hall ",
+            "phone_number": 4582021,
+            "mailroom": "3022",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Dreves",
+            "middlename": "M.",
+            "firstname": "Susan",
+            "address": "100 E Staley Hall ",
+            "phone_number": 4582986,
+            "mailroom": "3030",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Fecich",
+            "middlename": "J.",
+            "firstname": "Samantha",
+            "address": "107 G Staley Hall ",
+            "phone_number": 4582166,
+            "mailroom": "3126",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Heisey",
+            "middlename": "D.",
+            "firstname": "Natalie",
+            "address": "107 B Staley Hall ",
+            "phone_number": 4582023,
+            "mailroom": "3032",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Munson",
+            "middlename": "K.",
+            "firstname": "Jolene",
+            "address": "104 A Staley Hall ",
+            "phone_number": 4582600,
+            "mailroom": "3031",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Sabousky",
+            "middlename": "A.",
+            "firstname": "Richard",
+            "address": "107 F Staley Hall ",
+            "phone_number": 4582002,
+            "mailroom": "3024",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bain",
+            "middlename": "J.",
+            "firstname": "Brian",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Bodamer",
+            "middlename": "S.",
+            "firstname": "Amy",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- 2817",
+            "department": "Education"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Brown",
+            "middlename": "K.",
+            "firstname": "Brian",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Frederick",
+            "middlename": "L.",
+            "firstname": "Sandra",
+            "address": "107 A Staley Hall ",
+            "phone_number": 4583397,
+            "mailroom": "3160",
+            "department": "Education"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "\u201cBill\u201d",
+            "middlename": "x.",
+            "firstname": "William",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Lamie",
+            "middlename": "D.",
+            "firstname": "Melissa",
+            "address": "113 PLC ",
+            "phone_number": 4582128,
+            "mailroom": "3063",
+            "department": "Education"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Long",
+            "middlename": "T.",
+            "firstname": "Derek",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Martin",
+            "middlename": "S.",
+            "firstname": "Tammi",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- 2819",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Miller",
+            "middlename": "x.",
+            "firstname": "Marybeth",
+            "address": "107 Staley Hall ",
+            "phone_number": 4583347,
+            "mailroom": "2812",
+            "department": "Education"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Nemeth",
+            "middlename": "J.",
+            "firstname": "Daniel",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Education"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Omasits",
+            "middlename": "J.",
+            "firstname": "Christopher",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- 3028",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Potter",
+            "middlename": "C.",
+            "firstname": "Sarah",
+            "address": "106 Staley Hall ",
+            "phone_number": 4582020,
+            "mailroom": "3148",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Rupnik",
+            "middlename": "J.",
+            "firstname": "Elizabeth",
+            "address": "104 Staley Hall ",
+            "phone_number": 4582600,
+            "mailroom": "3031",
+            "department": "Education"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Senita",
+            "middlename": "E.",
+            "firstname": "Karyn",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Education"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Snyder",
+            "middlename": "O.",
+            "firstname": "David",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Education"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Davis",
+            "middlename": "L.",
+            "firstname": "Alison",
+            "address": "100 Staley Hall ",
+            "phone_number": 4582400,
+            "mailroom": "3028",
+            "department": "Education"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Mayo,",
+            "middlename": "A.",
+            "firstname": "Joshua",
+            "address": "200 H Staley Hall ",
+            "phone_number": 2644712,
+            "mailroom": "3044",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bilbro",
+            "middlename": "L.",
+            "firstname": "Jeffrey",
+            "address": "013 E Henry Buhl Library ",
+            "phone_number": 4582056,
+            "mailroom": "3158",
+            "department": "English"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Craig",
+            "middlename": "J.",
+            "firstname": "Betsy",
+            "address": "200 F Staley Hall ",
+            "phone_number": 4582082,
+            "mailroom": "3015",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Harvey",
+            "middlename": "J.",
+            "firstname": "Andrew",
+            "address": "200 E Staley Hall ",
+            "phone_number": 4582018,
+            "mailroom": "3038",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Loretto",
+            "middlename": "J.",
+            "firstname": "Adam",
+            "address": "013 C Henry Buhl Library ",
+            "phone_number": 2644713,
+            "mailroom": "3033",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Potter",
+            "middlename": "A.",
+            "firstname": "Eric",
+            "address": "200 B Staley Hall ",
+            "phone_number": 4582993,
+            "mailroom": "3036",
+            "department": "English"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "\u201cAnnie\u201d",
+            "middlename": "x.",
+            "firstname": "Anne",
+            "address": "013 D Henry Buhl Library ",
+            "phone_number": 2644714,
+            "mailroom": "3034",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Rawl",
+            "middlename": "S.",
+            "firstname": "Michael",
+            "address": "200 J Staley Hall ",
+            "phone_number": 4583793,
+            "mailroom": "3150",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Rawl",
+            "middlename": "C.",
+            "firstname": "Virginia",
+            "address": "200 I Staley Hall ",
+            "phone_number": 4582175,
+            "mailroom": "3029",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Waha",
+            "middlename": "B.",
+            "firstname": "Kristen",
+            "address": "200 C Staley Hall ",
+            "phone_number": 4583389,
+            "mailroom": "3035",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Barbour",
+            "middlename": "A.",
+            "firstname": "Kristin",
+            "address": "21 A Pew Fine Arts Center ",
+            "phone_number": 4501560,
+            "mailroom": "3152",
+            "department": "English"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Garvey",
+            "middlename": "A.",
+            "firstname": "Kevin",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- --",
+            "department": "English"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Jackson",
+            "middlename": "O.",
+            "firstname": "Tracy",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Online Education -- --",
+            "department": "English"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Philson",
+            "middlename": "L.",
+            "firstname": "Cynthia",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- 3037",
+            "department": "English"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Wolfe",
+            "middlename": "L.",
+            "firstname": "Daniel",
+            "address": "21 B Pew Fine Arts Center ",
+            "phone_number": 4583822,
+            "mailroom": "2845",
+            "department": "English"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Graham,",
+            "middlename": "W.",
+            "firstname": "Mark",
+            "address": "300 D Staley Hall ",
+            "phone_number": 4583833,
+            "mailroom": "3041",
+            "department": "History"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Baker",
+            "middlename": "A.",
+            "firstname": "Elizabeth",
+            "address": "300 I Staley Hall ",
+            "phone_number": 4504022,
+            "mailroom": "3039",
+            "department": "History"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Edwards",
+            "middlename": "R.",
+            "firstname": "Jason",
+            "address": "303 C Staley Hall ",
+            "phone_number": 4583346,
+            "mailroom": "3023",
+            "department": "History"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Harp",
+            "middlename": "J.",
+            "firstname": "Gillis",
+            "address": "300 A Staley Hall ",
+            "phone_number": 4582057,
+            "mailroom": "3040",
+            "department": "History"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Mitchell",
+            "middlename": "J.",
+            "firstname": "Andrew",
+            "address": "300 C Staley Hall ",
+            "phone_number": 4583825,
+            "mailroom": "3043",
+            "department": "History"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Madsen,",
+            "middlename": "B.",
+            "firstname": "Kelsey",
+            "address": "203 D Staley Hall ",
+            "phone_number": 4582006,
+            "mailroom": "3048",
+            "department": "Modern Languages"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Carruth",
+            "middlename": "D.",
+            "firstname": "Melissa",
+            "address": "203 C Staley Hall ",
+            "phone_number": 4583378,
+            "mailroom": "3047",
+            "department": "Modern Languages"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Killam",
+            "middlename": "S.",
+            "firstname": "Jason",
+            "address": "203 E Staley Hall ",
+            "phone_number": 4582007,
+            "mailroom": "3045",
+            "department": "Modern Languages"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Knupp",
+            "middlename": "M.",
+            "firstname": "April",
+            "address": "203 B Staley Hall ",
+            "phone_number": 4583361,
+            "mailroom": "2872",
+            "department": "Modern Languages"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Ruane",
+            "middlename": "R.",
+            "firstname": "Aileen",
+            "address": "203 F Staley Hall ",
+            "phone_number": 4501588,
+            "mailroom": "3037",
+            "department": "Modern Languages"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "\u201cSally\u201d",
+            "middlename": "x.",
+            "firstname": "Sarah",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Modern Languages"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Tedford,",
+            "middlename": "M.",
+            "firstname": "Jeffrey",
+            "address": "109 Pew Fine Arts Center ",
+            "phone_number": 4501557,
+            "mailroom": "3056",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Paparone,",
+            "middlename": "A.",
+            "firstname": "Stacy",
+            "address": "70 Pew Fine Arts Center ",
+            "phone_number": 4582086,
+            "mailroom": "3051",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Carter",
+            "middlename": "H.",
+            "firstname": "Beverly",
+            "address": "114 Pew Fine Arts Center ",
+            "phone_number": 4582083,
+            "mailroom": "3053",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Erb",
+            "middlename": "S.",
+            "firstname": "Andrew",
+            "address": "134 Pew Fine Arts Center ",
+            "phone_number": 4583799,
+            "mailroom": "3050",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Hasper",
+            "middlename": "J.",
+            "firstname": "Joseph",
+            "address": "135 Pew Fine Arts Center ",
+            "phone_number": 4582174,
+            "mailroom": "3054",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Huebert",
+            "middlename": "H.",
+            "firstname": "Melva",
+            "address": "117 Pew Fine Arts Center ",
+            "phone_number": 4582397,
+            "mailroom": "2881",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Mueller",
+            "middlename": "E.",
+            "firstname": "Katherine",
+            "address": "137 Pew Fine Arts Center ",
+            "phone_number": 4582088,
+            "mailroom": "3052",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Munson",
+            "middlename": "A.",
+            "firstname": "Paul",
+            "address": "44 Pew Fine Arts Center ",
+            "phone_number": 4583827,
+            "mailroom": "3055",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Agnew",
+            "middlename": "L.",
+            "firstname": "Rochelle",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Bellassai",
+            "middlename": "C.",
+            "firstname": "Anthony",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Bennett",
+            "middlename": "G.",
+            "firstname": "Kaitlyn",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Billock",
+            "middlename": "L.",
+            "firstname": "Rebecca",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Cameron",
+            "middlename": "R.",
+            "firstname": "Glenn",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Colbert",
+            "middlename": "x.",
+            "firstname": "Brianna",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Dearmitt",
+            "middlename": "P.",
+            "firstname": "Claire",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Dugan,",
+            "middlename": "H.",
+            "firstname": "Charles",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Erb",
+            "middlename": "L.",
+            "firstname": "Diana",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Fennell",
+            "middlename": "A.",
+            "firstname": "Drew",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Fitch",
+            "middlename": "A.",
+            "firstname": "Bradley",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Heasley",
+            "middlename": "G.",
+            "firstname": "Daniel",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Heckathorn",
+            "middlename": "x.",
+            "firstname": "Zoey",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Heid",
+            "middlename": "J.",
+            "firstname": "Ronald",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Karenbauer",
+            "middlename": "M.",
+            "firstname": "Jana",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Kohanski",
+            "middlename": "C.",
+            "firstname": "Elisa",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Kubik",
+            "middlename": "A.",
+            "firstname": "Paula",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Beth",
+            "middlename": "x.",
+            "firstname": "Mary",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "May",
+            "middlename": "L.",
+            "firstname": "Douglas",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Piastro-Tedford",
+            "middlename": "E.",
+            "firstname": "Sasha",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Phelps",
+            "middlename": "M.",
+            "firstname": "Katie",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Pysola",
+            "middlename": "x.",
+            "firstname": "Alyssa",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Samson",
+            "middlename": "J.",
+            "firstname": "Nicholas",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Scott",
+            "middlename": "A.",
+            "firstname": "Julia",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Sheffer",
+            "middlename": "B.",
+            "firstname": "Robert",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Struthers",
+            "middlename": "C.",
+            "firstname": "Katelyn",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Venesky",
+            "middlename": "P.",
+            "firstname": "Jason",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Vidourek",
+            "middlename": "M.",
+            "firstname": "Charles",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Wasilko",
+            "middlename": "B.",
+            "firstname": "Mark",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Susan",
+            "middlename": "x.",
+            "firstname": "M",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Pew Fine Arts Center -- 3053",
+            "department": "Music"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Coulter,",
+            "middlename": "L.",
+            "firstname": "Michael",
+            "address": "300 E Staley Hall ",
+            "phone_number": 4583796,
+            "mailroom": "3073",
+            "department": "Political Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Kengor",
+            "middlename": "G.",
+            "firstname": "Paul",
+            "address": "300 H Staley Hall ",
+            "phone_number": 4583394,
+            "mailroom": "3075",
+            "department": "Political Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Stanton",
+            "middlename": "S.",
+            "firstname": "Samuel",
+            "address": "303 E Staley Hall ",
+            "phone_number": 4583854,
+            "mailroom": "3156",
+            "department": "Political Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Verbois",
+            "middlename": "A.",
+            "firstname": "Caleb",
+            "address": "300 G Staley Hall ",
+            "phone_number": 2644623,
+            "mailroom": "3098",
+            "department": "Political Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Horton,",
+            "middlename": "J.",
+            "firstname": "Joseph",
+            "address": "217 H Staley Hall ",
+            "phone_number": 4582004,
+            "mailroom": "3077",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Ayers",
+            "middlename": "J.",
+            "firstname": "David",
+            "address": "217 F Staley Hall ",
+            "phone_number": 2644718,
+            "mailroom": "3091",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bright",
+            "middlename": "E.",
+            "firstname": "Martin",
+            "address": "217 A Staley Hall ",
+            "phone_number": 2644624,
+            "mailroom": "3090",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "\u201cLuke\u201d",
+            "middlename": "x.",
+            "firstname": "Lucian",
+            "address": "217 J Staley Hall ",
+            "phone_number": 4501561,
+            "mailroom": "3076",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Hollenberger",
+            "middlename": "C.",
+            "firstname": "Jennifer",
+            "address": "217 E Staley Hall ",
+            "phone_number": 4583354,
+            "mailroom": "3026",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Homan",
+            "middlename": "N.",
+            "firstname": "Kristin",
+            "address": "217 K Staley Hall ",
+            "phone_number": 4582043,
+            "mailroom": "2848",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Hosack",
+            "middlename": "L.",
+            "firstname": "Lisa",
+            "address": "217 C Staley Hall ",
+            "phone_number": 4582011,
+            "mailroom": "3088",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Kosits",
+            "middlename": "D.",
+            "firstname": "Russell",
+            "address": "217 I Staley Hall ",
+            "phone_number": 4583787,
+            "mailroom": "3079",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Welton",
+            "middlename": "L.",
+            "firstname": "Gary",
+            "address": "217 D Staley Hall ",
+            "phone_number": 4583374,
+            "mailroom": "3078",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Fleske",
+            "middlename": "A.",
+            "firstname": "William",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Richter",
+            "middlename": "A.",
+            "firstname": "Jeff",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Zerbe Health Center 458-3391 3151",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Papay",
+            "middlename": "M.",
+            "firstname": "Cara",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Zerbe Health Center 450-1513 3151",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Vassar-Bush",
+            "middlename": "G.",
+            "firstname": "Vannessa",
+            "address": "211 Staley Hall ",
+            "phone_number": 4582630,
+            "mailroom": "3080",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Vernam",
+            "middlename": "E.",
+            "firstname": "Jody",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Zerbe Health Center 458-2208 3151",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Loretto,",
+            "middlename": "J.",
+            "firstname": "Adam",
+            "address": "013 C Henry Buhl Library ",
+            "phone_number": 2644713,
+            "mailroom": "3033",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bilbro",
+            "middlename": "L.",
+            "firstname": "Jeffrey",
+            "address": "013 E Henry Buhl Library ",
+            "phone_number": 4582056,
+            "mailroom": "3158",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Mayo",
+            "middlename": "A.",
+            "firstname": "Joshua",
+            "address": "200 H Staley Hall ",
+            "phone_number": 2644712,
+            "mailroom": "3044",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "\u201cAnnie\u201d",
+            "middlename": "x.",
+            "firstname": "Anne",
+            "address": "013 D Henry Buhl Library ",
+            "phone_number": 2644714,
+            "mailroom": "3034",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Savage,",
+            "middlename": "N.",
+            "firstname": "Richard",
+            "address": "350 B STEM ",
+            "phone_number": 4583841,
+            "mailroom": "3115",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Pazehoski",
+            "middlename": "O.",
+            "firstname": "Kristina",
+            "address": "260 E STEM ",
+            "phone_number": 4582098,
+            "mailroom": "3092",
+            "department": "Psychology, Social Work, and Sociology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Stauff,",
+            "middlename": "L.",
+            "firstname": "Devin",
+            "address": "220 PLC ",
+            "phone_number": 4583335,
+            "mailroom": "3107",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Antoszewski,",
+            "middlename": "x.",
+            "firstname": "Lisa",
+            "address": "240 A STEM ",
+            "phone_number": 2644611,
+            "mailroom": "3147",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Campagnolo",
+            "middlename": "R.",
+            "firstname": "Enzo",
+            "address": "200 PLC ",
+            "phone_number": 4582202,
+            "mailroom": "2878",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Dudt",
+            "middlename": "F.",
+            "firstname": "Jan",
+            "address": "360 C STEM ",
+            "phone_number": 4582114,
+            "mailroom": "3094",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Farone",
+            "middlename": "S.",
+            "firstname": "Tracy",
+            "address": "240 B STEM ",
+            "phone_number": 4582144,
+            "mailroom": "2874",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Jenkins",
+            "middlename": "P.",
+            "firstname": "Stephen",
+            "address": "260 D STEM ",
+            "phone_number": 4582102,
+            "mailroom": "3095",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Pazehoski",
+            "middlename": "O.",
+            "firstname": "Kristina",
+            "address": "260 E STEM ",
+            "phone_number": 4582098,
+            "mailroom": "3092",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Wood",
+            "middlename": "M.",
+            "firstname": "Darren",
+            "address": "222 PLC ",
+            "phone_number": 4582113,
+            "mailroom": "3093",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Yowler",
+            "middlename": "C.",
+            "firstname": "Brian",
+            "address": "240 C STEM ",
+            "phone_number": 4583791,
+            "mailroom": "3157",
+            "department": "Biology"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Gundlach",
+            "middlename": "T.",
+            "firstname": "Alaina",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Online Education -- --",
+            "department": "Biology"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Lytle",
+            "middlename": "S.",
+            "firstname": "Laurie",
+            "address": "260 A STEM ",
+            "phone_number": 4501526,
+            "mailroom": "2866",
+            "department": "Biology"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Strain",
+            "middlename": "x.",
+            "firstname": "Joy",
+            "address": "200 PLC ",
+            "phone_number": "",
+            "mailroom": "-- --",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Wolfe",
+            "middlename": "E.",
+            "firstname": "Abigail",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- STEM -- --",
+            "department": "Biology"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Augspurger,",
+            "middlename": "D.",
+            "firstname": "Joseph",
+            "address": "160 A STEM ",
+            "phone_number": 4582115,
+            "mailroom": "3100",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Cramer",
+            "middlename": "J.",
+            "firstname": "Susan",
+            "address": "240 D STEM ",
+            "phone_number": 4582207,
+            "mailroom": "3102",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "DiStasi",
+            "middlename": "F.",
+            "firstname": "Vincent",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- TLC 458-2116 3146",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Falcetta",
+            "middlename": "F.",
+            "firstname": "Michael",
+            "address": "218 PLC ",
+            "phone_number": 4583820,
+            "mailroom": "3104",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Foster",
+            "middlename": "W.",
+            "firstname": "Peter",
+            "address": "200 PLC ",
+            "phone_number": 4582168,
+            "mailroom": "3101",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Homan",
+            "middlename": "C.",
+            "firstname": "Timothy",
+            "address": "260 B STEM ",
+            "phone_number": 4582112,
+            "mailroom": "3099",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Kriley",
+            "middlename": "E.",
+            "firstname": "Charles",
+            "address": "260 C STEM ",
+            "phone_number": 4582976,
+            "mailroom": "3106",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Shaw",
+            "middlename": "L.",
+            "firstname": "Kevin",
+            "address": "340 C STEM ",
+            "phone_number": 4504043,
+            "mailroom": "3097",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Wong",
+            "middlename": "x.",
+            "firstname": "Venney",
+            "address": "240 E STEM ",
+            "phone_number": 4582987,
+            "mailroom": "3096",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bridger",
+            "middlename": "A.",
+            "firstname": "Daniel",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- STEM -- --",
+            "department": "Chemistry"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Dellinger,",
+            "middlename": "J.",
+            "firstname": "Brian",
+            "address": "360 A STEM ",
+            "phone_number": 2644630,
+            "mailroom": "3132",
+            "department": "Computer Science"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Dickinson",
+            "middlename": "C.",
+            "firstname": "Brian",
+            "address": "340 A STEM ",
+            "phone_number": 4582603,
+            "mailroom": "3014",
+            "department": "Computer Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Hutchins",
+            "middlename": "O.",
+            "firstname": "Jonathan",
+            "address": "340 D STEM ",
+            "phone_number": 4583794,
+            "mailroom": "3123",
+            "department": "Computer Science"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Johnson",
+            "middlename": "J.",
+            "firstname": "Ethan",
+            "address": "360 B STEM ",
+            "phone_number": 4582571,
+            "mailroom": "3120",
+            "department": "Computer Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Wolfe",
+            "middlename": "D.",
+            "firstname": "Britton",
+            "address": "340 B STEM ",
+            "phone_number": 4582044,
+            "mailroom": "3124",
+            "department": "Computer Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "\u201cDavid\u201d",
+            "middlename": "x.",
+            "firstname": "He",
+            "address": "360 D STEM ",
+            "phone_number": 2644622,
+            "mailroom": "3105",
+            "department": "Computer Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Brooks,",
+            "middlename": "D.",
+            "firstname": "James",
+            "address": "212 Hoyt Hall ",
+            "phone_number": 2644625,
+            "mailroom": "3110",
+            "department": "Electrical and Computer Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "\u201cMike\u201d",
+            "middlename": "x.",
+            "firstname": "Myron",
+            "address": "207 B Hoyt Hall ",
+            "phone_number": 4504095,
+            "mailroom": "3109",
+            "department": "Electrical and Computer Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Christman",
+            "middlename": "M.",
+            "firstname": "Alan",
+            "address": "109 Hoyt Hall ",
+            "phone_number": 4583344,
+            "mailroom": "3111",
+            "department": "Electrical and Computer Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Hill",
+            "middlename": "D.",
+            "firstname": "Peter",
+            "address": "205 A Hoyt Hall ",
+            "phone_number": 4582040,
+            "mailroom": "3108",
+            "department": "Electrical and Computer Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Rumbaugh",
+            "middlename": "K.",
+            "firstname": "Luke",
+            "address": "105 Hoyt Hall ",
+            "phone_number": 4582045,
+            "mailroom": "3112",
+            "department": "Electrical and Computer Engineering"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Montgomery",
+            "middlename": "C.",
+            "firstname": "Brian",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Hoyt Hall -- --",
+            "department": "Electrical and Computer Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Prins,",
+            "middlename": "J.",
+            "firstname": "Philip",
+            "address": "202 PLC ",
+            "phone_number": 4583863,
+            "mailroom": "3058",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Ault",
+            "middlename": "L.",
+            "firstname": "Dana",
+            "address": "204 PLC ",
+            "phone_number": 2644715,
+            "mailroom": "3149",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Buxton",
+            "middlename": "D.",
+            "firstname": "Jeffrey",
+            "address": "208 PLC ",
+            "phone_number": 4582125,
+            "mailroom": "2858",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Gerhart",
+            "middlename": "D.",
+            "firstname": "Hayden",
+            "address": "206 PLC ",
+            "phone_number": 4583301,
+            "mailroom": "2860",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Fritz",
+            "middlename": "C.",
+            "firstname": "David",
+            "address": "117 B PLC ",
+            "phone_number": 4582110,
+            "mailroom": "3060",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Gibson",
+            "middlename": "D.",
+            "firstname": "Todd",
+            "address": "121 PLC ",
+            "phone_number": 4582147,
+            "mailroom": "3057",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Patterson",
+            "middlename": "D.",
+            "firstname": "Richard",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- -- -- --",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Severson",
+            "middlename": "K.",
+            "firstname": "Sean",
+            "address": "111 PLC ",
+            "phone_number": 4582123,
+            "mailroom": "3066",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Thrasher",
+            "middlename": "T.",
+            "firstname": "Jim",
+            "address": "3rd floor Crawford Hall ",
+            "phone_number": 4582200,
+            "mailroom": "Crawford",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Wise",
+            "middlename": "A.",
+            "firstname": "Scott",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- -- -- --",
+            "department": "Exercise Science"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Jackson,",
+            "middlename": "A.",
+            "firstname": "Michael",
+            "address": "213 E Staley Hall ",
+            "phone_number": 4582054,
+            "mailroom": "3130",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bancroft",
+            "middlename": "D.",
+            "firstname": "Eric",
+            "address": "213 F Staley Hall ",
+            "phone_number": 4583844,
+            "mailroom": "3121",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bonomo",
+            "middlename": "H.",
+            "firstname": "Kelleen",
+            "address": "217 B Staley Hall ",
+            "phone_number": 4501559,
+            "mailroom": "3119",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Drai",
+            "middlename": "x.",
+            "firstname": "Remi",
+            "address": "213 B Staley Hall ",
+            "phone_number": 4582105,
+            "mailroom": "3128",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Flanders",
+            "middlename": "T.",
+            "firstname": "Steven",
+            "address": "213 G Staley Hall ",
+            "phone_number": 4582994,
+            "mailroom": "3131",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "McIntyre",
+            "middlename": "L.",
+            "firstname": "Dale",
+            "address": "213 C Staley Hall ",
+            "phone_number": 4582053,
+            "mailroom": "3127",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Smith",
+            "middlename": "C.",
+            "firstname": "Ethan",
+            "address": "213 A Staley Hall ",
+            "phone_number": 4582028,
+            "mailroom": "3125",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Thompson",
+            "middlename": "L.",
+            "firstname": "Gary",
+            "address": "217 G Staley Hall ",
+            "phone_number": 4582039,
+            "mailroom": "3129",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Smith",
+            "middlename": "A.",
+            "firstname": "Stephanie",
+            "address": "213 A Staley Hall ",
+            "phone_number": "",
+            "mailroom": "-- --",
+            "department": "Mathematics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Clauss,",
+            "middlename": "A.",
+            "firstname": "Michelle",
+            "address": "209 Hoyt Hall ",
+            "phone_number": 4582037,
+            "mailroom": "3116",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Dixon,",
+            "middlename": "M.",
+            "firstname": "John",
+            "address": "203 Hoyt Hall ",
+            "phone_number": 4582013,
+            "mailroom": "3064",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Anderson",
+            "middlename": "J.",
+            "firstname": "Erik",
+            "address": "208 Hoyt Hall ",
+            "phone_number": 4501537,
+            "mailroom": "3118",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Bardy",
+            "middlename": "R.",
+            "firstname": "Erik",
+            "address": "213 Hoyt Hall ",
+            "phone_number": 4501536,
+            "mailroom": "3103",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Fair",
+            "middlename": "C.",
+            "firstname": "Mark",
+            "address": "108 Hoyt Hall ",
+            "phone_number": 4582119,
+            "mailroom": "3133",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "",
+            "middlename": "Li",
+            "firstname": "Qiuyan",
+            "address": "211 Hoyt Hall ",
+            "phone_number": 4582042,
+            "mailroom": "3113",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "\u201cGeo\u201d",
+            "middlename": "x.",
+            "firstname": "George",
+            "address": "110 Hoyt Hall ",
+            "phone_number": 4501535,
+            "mailroom": "3122",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Ulrich",
+            "middlename": "W.",
+            "firstname": "Vernon",
+            "address": "207 A Hoyt Hall ",
+            "phone_number": 4504015,
+            "mailroom": "3117",
+            "department": "Mechanical Engineering"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Wolinski,",
+            "middlename": "P.",
+            "firstname": "Jeffrey",
+            "address": "200 PLC ",
+            "phone_number": 4582201,
+            "mailroom": "3137",
+            "department": "Physics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Brower",
+            "middlename": "C.",
+            "firstname": "Shane",
+            "address": "210 PLC ",
+            "phone_number": 4582118,
+            "mailroom": "3134",
+            "department": "Physics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Clem",
+            "middlename": "L.",
+            "firstname": "James",
+            "address": "216 PLC ",
+            "phone_number": 4583883,
+            "mailroom": "3138",
+            "department": "Physics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Marsch",
+            "middlename": "A.",
+            "firstname": "Glenn",
+            "address": "214 PLC ",
+            "phone_number": 4582097,
+            "mailroom": "3135",
+            "department": "Physics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "\u201cDJ\u201d",
+            "middlename": "J.",
+            "firstname": "Doris",
+            "address": "212 PLC ",
+            "phone_number": 4583789,
+            "mailroom": "3136",
+            "department": "Physics"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Fugate",
+            "middlename": "M.",
+            "firstname": "Luke",
+            "address": "216 PLC ",
+            "phone_number": "",
+            "mailroom": "-- --",
+            "department": "Physics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Roach,",
+            "middlename": "A.",
+            "firstname": "Janey",
+            "address": "140 C STEM ",
+            "phone_number": 4582595,
+            "mailroom": "2852",
+            "department": "Physics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Skees",
+            "middlename": "E.",
+            "firstname": "Janet",
+            "address": "140 C STEM ",
+            "phone_number": 4582030,
+            "mailroom": "3059",
+            "department": "Physics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "McFeaters,",
+            "middlename": "R.",
+            "firstname": "Michelle",
+            "address": "317 A Staley Hall ",
+            "phone_number": 4583781,
+            "mailroom": "3005",
+            "department": "Physics"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Nicole",
+            "middlename": "x.",
+            "firstname": "J",
+            "address": "317 C Staley Hall ",
+            "phone_number": 4583861,
+            "mailroom": "3011",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Graybill",
+            "middlename": "B.",
+            "firstname": "Keith",
+            "address": "317 D Staley Hall ",
+            "phone_number": 4582099,
+            "mailroom": "3114",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Grimm",
+            "middlename": "C.",
+            "firstname": "Richard",
+            "address": "318 C Staley Hall ",
+            "phone_number": 4582009,
+            "mailroom": "3006",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "McFeaters",
+            "middlename": "R.",
+            "firstname": "Michelle",
+            "address": "317 A Staley Hall ",
+            "phone_number": 4583781,
+            "mailroom": "3005",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Shultz",
+            "middlename": "M.",
+            "firstname": "Tricia",
+            "address": "317 B Staley Hall ",
+            "phone_number": 4582581,
+            "mailroom": "3002",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "\u201cOwen\u201d",
+            "middlename": "x.",
+            "firstname": "Youhui",
+            "address": "318 B Staley Hall ",
+            "phone_number": 4583373,
+            "mailroom": "3003",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Davidek",
+            "middlename": "R.",
+            "firstname": "Jeffrey",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "DiDonato",
+            "middlename": "D.",
+            "firstname": "Andrea",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Accounting and Finance"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Herbener,",
+            "middlename": "M.",
+            "firstname": "Jeffrey",
+            "address": "303 D Staley Hall ",
+            "phone_number": 4582204,
+            "mailroom": "3017",
+            "department": "Economics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Frank",
+            "middlename": "M.",
+            "firstname": "Peter",
+            "address": "2nd floor Crawford Hall ",
+            "phone_number": 4582187,
+            "mailroom": "Crawford",
+            "department": "Economics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Fuller",
+            "middlename": "S.",
+            "firstname": "Caleb",
+            "address": "303 B Staley Hall ",
+            "phone_number": 4582560,
+            "mailroom": "3010",
+            "department": "Economics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Ritenour",
+            "middlename": "R.",
+            "firstname": "Shawn",
+            "address": "303 A Staley Hall ",
+            "phone_number": 4582026,
+            "mailroom": "3019",
+            "department": "Economics"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Newman",
+            "middlename": "R.",
+            "firstname": "Jonathan",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Online Education -- --",
+            "department": "Economics"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Newman",
+            "middlename": "T.",
+            "firstname": "Patrick",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Economics"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Sweet,",
+            "middlename": "J.",
+            "firstname": "Timothy",
+            "address": "203 A Staley Hall ",
+            "phone_number": 4504080,
+            "mailroom": "2865",
+            "department": "Entrepreneurship"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "English",
+            "middlename": "J.",
+            "firstname": "Yvonne",
+            "address": "202 A Staley Hall ",
+            "phone_number": 4504029,
+            "mailroom": "3004",
+            "department": "Entrepreneurship"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Lewis",
+            "middlename": "E.",
+            "firstname": "Cedric",
+            "address": "318 I Staley Hall ",
+            "phone_number": 4582628,
+            "mailroom": "2816",
+            "department": "Entrepreneurship"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Smith",
+            "middlename": "E.",
+            "firstname": "Ken",
+            "address": "200 A Staley Hall ",
+            "phone_number": 2644621,
+            "mailroom": "3046",
+            "department": "Entrepreneurship"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "D.",
+            "middlename": "P.",
+            "firstname": "Kyle",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Entrepreneurship"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Kocur,",
+            "middlename": "D.",
+            "firstname": "Richard",
+            "address": "318 F Staley Hall ",
+            "phone_number": 4501549,
+            "mailroom": "2818",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Biddle",
+            "middlename": "A.",
+            "firstname": "Wayne",
+            "address": "318 H Staley Hall ",
+            "phone_number": 4582213,
+            "mailroom": "3140",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Butler",
+            "middlename": "M.",
+            "firstname": "David",
+            "address": "318 G Staley Hall ",
+            "phone_number": 4582596,
+            "mailroom": "3083",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Crute",
+            "middlename": "L.",
+            "firstname": "Christy",
+            "address": "113 Staley Hall ",
+            "phone_number": 4582027,
+            "mailroom": "3013",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Havrilla",
+            "middlename": "R.",
+            "firstname": "Laura",
+            "address": "318 A Staley Hall ",
+            "phone_number": 4501579,
+            "mailroom": "3084",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Kelley",
+            "middlename": "S.",
+            "firstname": "Ryan",
+            "address": "318 F Staley Hall ",
+            "phone_number": 4582198,
+            "mailroom": "3007",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Markley",
+            "middlename": "W.",
+            "firstname": "Andrew",
+            "address": "318 J Staley Hall ",
+            "phone_number": 4583353,
+            "mailroom": "3009",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Powell",
+            "middlename": "K.",
+            "firstname": "Scott",
+            "address": "318 K Staley Hall ",
+            "phone_number": 4582191,
+            "mailroom": "3020",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Smith",
+            "middlename": "D.",
+            "firstname": "John",
+            "address": "318 E Staley Hall ",
+            "phone_number": 4582195,
+            "mailroom": "3159",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Blaine",
+            "middlename": "A.",
+            "firstname": "Jonathan",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- TLC 450-1542 3146",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Coyne",
+            "middlename": "M.",
+            "firstname": "John",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "DiStasi",
+            "middlename": "F.",
+            "firstname": "Vincent",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- TLC 458-2116 3146",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Duca",
+            "middlename": "V.",
+            "firstname": "Stephen",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Hatfield",
+            "middlename": "J.",
+            "firstname": "Sarah",
+            "address": "113 Staley Hall ",
+            "phone_number": 4582616,
+            "mailroom": "2846",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Miller",
+            "middlename": "S.",
+            "firstname": "Jennifer",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Online Education -- --",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Miller",
+            "middlename": "E.",
+            "firstname": "Ryan",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Staley Hall -- --",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Kuyumcu",
+            "middlename": "x.",
+            "firstname": "Daniel",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Online Education -- --",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Gilliland,",
+            "middlename": "L.",
+            "firstname": "Jennifer",
+            "address": "319 C Staley Hall ",
+            "phone_number": 4582022,
+            "mailroom": "3025",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Anderson",
+            "middlename": "x.",
+            "firstname": "Rachel",
+            "address": "319 B Staley Hall ",
+            "phone_number": 4504016,
+            "mailroom": "3025",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Bardy",
+            "middlename": "x.",
+            "firstname": "Patti",
+            "address": "319 A Staley Hall ",
+            "phone_number": 4582632,
+            "mailroom": "3025",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Crute,",
+            "middlename": "L.",
+            "firstname": "Christy",
+            "address": "113 Staley Hall ",
+            "phone_number": 4582027,
+            "mailroom": "3013",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Hatfield,",
+            "middlename": "J.",
+            "firstname": "Sarah",
+            "address": "113 Staley Hall ",
+            "phone_number": 4582616,
+            "mailroom": "2846",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "LiVorio,",
+            "middlename": "J.",
+            "firstname": "Heather",
+            "address": "113 Staley Hall ",
+            "phone_number": 4582593,
+            "mailroom": "3153",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Warren,",
+            "middlename": "x.",
+            "firstname": "Darren",
+            "address": "113 Staley Hall ",
+            "phone_number": 4582621,
+            "mailroom": "2894",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Gibson,",
+            "middlename": "D.",
+            "firstname": "Todd",
+            "address": "121 PLC ",
+            "phone_number": 4582147,
+            "mailroom": "3057",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Dreves,",
+            "middlename": "F.",
+            "firstname": "Michael",
+            "address": "122 PLC ",
+            "phone_number": 4582151,
+            "mailroom": "3074",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Cramer",
+            "middlename": "M.",
+            "firstname": "Kristen",
+            "address": "118 PLC ",
+            "phone_number": 4501531,
+            "mailroom": "3072",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "DiDonato",
+            "middlename": "J.",
+            "firstname": "Andrew",
+            "address": "117 A PLC ",
+            "phone_number": 2644708,
+            "mailroom": "3069",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Fritz",
+            "middlename": "C.",
+            "firstname": "David",
+            "address": "117 B PLC ",
+            "phone_number": 4582110,
+            "mailroom": "3060",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Jacobs",
+            "middlename": "E.",
+            "firstname": "Cathy",
+            "address": "137 PLC ",
+            "phone_number": 4582138,
+            "mailroom": "3061",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Lamie",
+            "middlename": "D.",
+            "firstname": "Melissa",
+            "address": "113 PLC ",
+            "phone_number": 4582128,
+            "mailroom": "3063",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Lamie",
+            "middlename": "S.",
+            "firstname": "Steven",
+            "address": "112 PLC ",
+            "phone_number": 4583866,
+            "mailroom": "3062",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Sayles",
+            "middlename": "x.",
+            "firstname": "Leo",
+            "address": "124 PLC ",
+            "phone_number": 4582129,
+            "mailroom": "3065",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Severson",
+            "middlename": "K.",
+            "firstname": "Sean",
+            "address": "111 PLC ",
+            "phone_number": 4582123,
+            "mailroom": "3066",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Baker",
+            "middlename": "M.",
+            "firstname": "Jason",
+            "address": "114 PLC ",
+            "phone_number": 4582130,
+            "mailroom": "3067",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Baney",
+            "middlename": "E.",
+            "firstname": "Derrick",
+            "address": "CC PLC ",
+            "phone_number": 4582130,
+            "mailroom": "3069",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Bennett",
+            "middlename": "F.",
+            "firstname": "Addison",
+            "address": "116 PLC ",
+            "phone_number": "",
+            "mailroom": "-- 2583",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Bernhardt",
+            "middlename": "x.",
+            "firstname": "Jocelyn",
+            "address": "124 PLC ",
+            "phone_number": 4504013,
+            "mailroom": "2856",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Brest",
+            "middlename": "W.",
+            "firstname": "Kendall",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Field House -- 3069",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "\u201cBill\u201d",
+            "middlename": "x.",
+            "firstname": "William",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Field House -- 3069",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Briggs",
+            "middlename": "A.",
+            "firstname": "Ryan",
+            "address": "116 PLC ",
+            "phone_number": 4583365,
+            "mailroom": "3071",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Campbell",
+            "middlename": "A.",
+            "firstname": "Beth",
+            "address": "118 PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3072",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Cole",
+            "middlename": "E.",
+            "firstname": "Jordyn",
+            "address": "125 PLC ",
+            "phone_number": 4582577,
+            "mailroom": "3071",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Cooper",
+            "middlename": "L.",
+            "firstname": "Jessica",
+            "address": "115 PLC ",
+            "phone_number": 2644726,
+            "mailroom": "2855",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Guiler",
+            "middlename": "B.",
+            "firstname": "Suzie",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- TLC 458-2046 TLC",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Halle",
+            "middlename": "M.",
+            "firstname": "William",
+            "address": "109 PLC ",
+            "phone_number": 4582127,
+            "mailroom": "2851",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Hawke",
+            "middlename": "L.",
+            "firstname": "Rick",
+            "address": "156 PLC ",
+            "phone_number": 4582108,
+            "mailroom": "2838",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Heckathorn",
+            "middlename": "x.",
+            "firstname": "Brett",
+            "address": "116 PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3071",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Horner",
+            "middlename": "O.",
+            "firstname": "Nathaniel",
+            "address": "125 PLC ",
+            "phone_number": 2644735,
+            "mailroom": "3070",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Iliff",
+            "middlename": "x.",
+            "firstname": "Kim",
+            "address": "119 PLC ",
+            "phone_number": 4582900,
+            "mailroom": "3071",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Isles",
+            "middlename": "C.",
+            "firstname": "Brad",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- Carnegie Alumni Center 450-1524 Carnegie",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Jackowski",
+            "middlename": "H.",
+            "firstname": "Cassley",
+            "address": "124 PLC ",
+            "phone_number": 4582582,
+            "mailroom": "2854",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Jernstedt",
+            "middlename": "C.",
+            "firstname": "Alec",
+            "address": "116 PLC ",
+            "phone_number": 4583836,
+            "mailroom": "2853",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Matthews",
+            "middlename": "C.",
+            "firstname": "Geoff",
+            "address": "CC PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3069",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "McBride",
+            "middlename": "S.",
+            "firstname": "Brett",
+            "address": "CC PLC ",
+            "phone_number": "",
+            "mailroom": "-- 2855",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Miller",
+            "middlename": "E.",
+            "firstname": "Maggie",
+            "address": "CC PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3071",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Nesbit",
+            "middlename": "M.",
+            "firstname": "Sydney",
+            "address": "156 PLC ",
+            "phone_number": 4582108,
+            "mailroom": "2838",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Nulph",
+            "middlename": "S.",
+            "firstname": "Gwen",
+            "address": "CC PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3060",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Rose",
+            "middlename": "R.",
+            "firstname": "Lauren",
+            "address": "156 PLC ",
+            "phone_number": 4582108,
+            "mailroom": "2838",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Roth",
+            "middlename": "M.",
+            "firstname": "Lydia",
+            "address": "CC PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3067",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Royer",
+            "middlename": "S.",
+            "firstname": "Matthew",
+            "address": "123 PLC ",
+            "phone_number": 4582122,
+            "mailroom": "3068",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Ms.",
+            "lastname": "Rybka",
+            "middlename": "E.",
+            "firstname": "Laura",
+            "address": "CC PLC ",
+            "phone_number": "",
+            "mailroom": "-- 2855",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Sasala",
+            "middlename": "R.",
+            "firstname": "Kyle",
+            "address": "123 PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3068",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mrs.",
+            "lastname": "Stelljes",
+            "middlename": "J.",
+            "firstname": "Christie",
+            "address": "",
+            "phone_number": "",
+            "mailroom": "-- -- -- 3071",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Dr.",
+            "lastname": "Thrasher",
+            "middlename": "T.",
+            "firstname": "Jim",
+            "address": "3rd floor Crawford Hall ",
+            "phone_number": 4582200,
+            "mailroom": "Crawford",
+            "department": "Management and Marketing"
+        },
+        {
+            "title": "Mr.",
+            "lastname": "Vogt",
+            "middlename": "x.",
+            "firstname": "Dan",
+            "address": "CC PLC ",
+            "phone_number": "",
+            "mailroom": "-- 3069",
+            "department": "Management and Marketing"
+        }
+    ]
+}

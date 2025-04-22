@@ -1,0 +1,15 @@
+Might need the following command for routes to work:
+
+npm install react-router-dom
+
+How we will be using it:
+
+Inside of index.js within a BrowserRoute the following structure:
+<Routes>
+	<Route path="LOCATION" element={"PAGE COMPONENT}>
+</Routes>
+
+This defines the routes, then to navigate between them, use a Link from
+'react-router-dom' to navigate to that page.
+
+To see this, look inside of the Navigation.js file.
